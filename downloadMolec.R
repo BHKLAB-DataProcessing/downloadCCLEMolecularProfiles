@@ -6,3 +6,4 @@ download(file.path(basePath, "CCLE_hybrid_capture1650_hg19_NoCommonSNPs_NoNeutra
 download(file.path(basePath, "CCLE_Oncomap3_2012-04-09.maf"), destfile="/pfs/out/CCLE_Oncomap3_2012-04-09.maf")
 download(file.path(basePath, "ccle.cnv.eset.RData"), destfile="/pfs/out/ccle.cnv.eset.RData")
 download(file.path(basePath, "ccle_rna.RData"), destfile="/pfs/out/ccle_rna.RData")
+download(file.path(basePath, "CCLE_CN.gene.RDS"), destfile="/pfs/out/CCLE_CN.gene.RDS")
